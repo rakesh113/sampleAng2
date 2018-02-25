@@ -11,7 +11,7 @@
     "lint": "tslint ./src/**/*.ts -t verbose",
     "e2e": "ng e2e"
   },
-  "keywords": [],
+  "keywords": ["asdf"],
   "author": "",
   "license": "MIT",
   "dependencies": {
