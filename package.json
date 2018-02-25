@@ -2,7 +2,7 @@
   "name": "angular-io-example",
   "version": "2.0.0",
   "private": true,
-  "description": "Example project from an angular.io guide.",
+  "description": "testing git",
   "scripts": {
     "ng": "ng",
     "build": "ng build",
